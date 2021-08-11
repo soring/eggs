@@ -13,7 +13,7 @@
         "ghcr.io\/pterodactyl\/yolks:java_8",
         "ghcr.io\/pterodactyl\/yolks:java_11",
         "ghcr.io\/pterodactyl\/yolks:java_14",
-        "ghcr.io\/pterodactyl\/yolks:java_16"
+        "ghcr.io\/pterodactyl\/yolks:java_mkofewpð´kjgfo4ewpkofpewkfpoewfkoepwkfwepðf16"
     ],
     "file_denylist": [],
     "startup": "java -Xmx{{SERVER_MEMORY}}M -jar {{SERVER_JARFILE}} pause",
